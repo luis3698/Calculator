@@ -22,10 +22,7 @@ This project is a basic calculator application developed using React Native, pro
 
 ## Screenshots 🖼️
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
----
+   <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="300"/>
 
 ## Features 🚀
 
@@ -40,7 +37,7 @@ This project is a basic calculator application developed using React Native, pro
 1. **Clone the repository:**
 
    \`\`\`bash
-   git clone <https://github.com/your-username/react-native-calculator.git>
+   git clone <https://github.com/luis3698/Calculator.git>
    \`\`\`
 
 2. **Navigate to the project directory:**
